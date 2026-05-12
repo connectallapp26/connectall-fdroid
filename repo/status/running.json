@@ -1,16 +1,1 @@
-{
-  "commandLine": [
-    "C:\\Users\\Priyanka\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\fdroidserver\\__main__.py update"
-  ],
-  "stages": {
-    "delete_disabled_builds": 1778583776780,
-    "index.make repo": 1778583776786,
-    "prepare_apps repo": 1778583776784,
-    "process_apks": 1778583776780,
-    "read_added_date_from_all_apks": 1778583776783,
-    "remove_apks": 1778583776782,
-    "scan_repo_files": 1778583776781
-  },
-  "startTimestamp": 1778563976000,
-  "subcommand": "update"
-}
+{"antiFeatures":{},"apksigner":"C:\\Users\\Priyanka\\AppData\\Local\\Android\\Sdk\\build-tools\\36.0.0\\apksigner.bat","archivePolicy0":[],"commandLine":["C:\\Users\\Priyanka\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\fdroid update"],"disabled":[],"endTimestamp":1778603927116,"failedBuilds":{},"fdroiddata":{"commitId":"6a613623f2f22ff9424df16b429e64d46172bd76","isDirty":true,"modifiedFiles":["repo/app-release.apk","repo/status/running.json"],"untrackedFiles":["fdroidrepo.keystore","metadata/com.frontend.yml"]},"jarsigner":"C:\\Program Files\\Java\\jdk-17\\bin\\jarsigner.EXE","keytool":"C:\\Program Files\\Java\\jdk-17\\bin\\keytool.EXE","needsUpdate":["com.frontend"],"noPackages":["com.frontend"],"noUpdateCheck":["com.frontend"],"stages":{"delete_disabled_builds":1778603923889,"index.make repo":1778603923895,"prepare_apps repo":1778603923893,"process_apks":1778603923890,"read_added_date_from_all_apks":1778603923892,"remove_apks":1778603923892,"scan_repo_files":1778603923891},"startTimestamp":1778584123000,"subcommand":"update"}
