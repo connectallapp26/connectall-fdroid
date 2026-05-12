@@ -1,0 +1,16 @@
+{
+  "commandLine": [
+    "C:\\Users\\Priyanka\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\fdroidserver\\__main__.py update"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1778583776780,
+    "index.make repo": 1778583776786,
+    "prepare_apps repo": 1778583776784,
+    "process_apks": 1778583776780,
+    "read_added_date_from_all_apks": 1778583776783,
+    "remove_apks": 1778583776782,
+    "scan_repo_files": 1778583776781
+  },
+  "startTimestamp": 1778563976000,
+  "subcommand": "update"
+}

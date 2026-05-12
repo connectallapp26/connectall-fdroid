@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# F-Droid temp
+tmp/
+archive/
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Keep signing secrets private
+keystore.p12
+config.py
+config.yml
